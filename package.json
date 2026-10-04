@@ -8,5 +8,13 @@
   },
   "keywords": [],
   "author": "Sami Al-Sadi",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamiS3alsadi/COMP3104.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SamiS3alsadi/COMP3104/issues"
+  },
+  "homepage": "https://github.com/SamiS3alsadi/COMP3104#readme"
 }
